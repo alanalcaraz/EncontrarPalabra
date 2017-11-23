@@ -5,7 +5,7 @@ using namespace std;
 
 int encontrarPalabra(char palabra[], char nombre[], int posicion, int contador, int c);
 
-int main(void) 
+int main() 
 {
     char nombre[50];
     char palabra[30];
